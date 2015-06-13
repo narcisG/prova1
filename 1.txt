@@ -1,3 +1,4 @@
 file 1.txt
 poso una segona linia
 poso una tercera linia
+poso una quarta linia només per vermell
